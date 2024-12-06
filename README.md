@@ -1,2 +1,2 @@
 # tugas-kuliah
-Repository yang berisi tugas tugas Luthfan Putra Prakarsa selama kuliah
+Repository yang berisi tugas bahasa pemrograman Semester 2
